@@ -1,0 +1,34 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="bit.ly/vqtqb" resolutions="1x" timestamp="1467231080869">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-mestre.css" crc="519010243" ref="index"/>
+    <file name="index.css" crc="4195895563" ref="index"/>
+    <file name="iefonts_index.css" crc="215088436" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="pale_blue_eyes-webfont.woff" crc="473110466"/>
+    <file name="pale_blue_eyes-webfont.eot" crc="3903383866"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u722-4.png" crc="4261553414" ref="index"/>
+    <file name="logo-2.gif" crc="3851926059" seo="true" ref="index"/>
+    <file name="flores-frutas-crop-u615.png" crc="39987155" ref="index"/>
+    <file name="flores-frutas-crop-u725.png" crc="331718800" ref="index"/>
+    <file name="flores-frutas-crop-u729.png" crc="116356556" ref="index"/>
+    <file name="dani.gif" crc="191527039" seo="true" ref="index"/>
+    <file name="nuvem.gif" crc="3869768606" seo="true" ref="index"/>
+    <file name="flores-frutas-crop-u732.png" crc="146297636" ref="index"/>
+    <file name="flores-frutas-crop-u735.png" crc="146297636" ref="index"/>
+    <file name="tabela.jpg" crc="56184592" seo="true" ref="index"/>
+    <file name="u774-4.png" crc="4199753754" ref="index"/>
+    <file name="linha-do-tempo.gif" crc="316981685" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3933978549" seo="true" mt="1467231010782" redirect="true"/>
+</manifest>
